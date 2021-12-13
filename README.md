@@ -32,7 +32,7 @@ Dentro da pasta test/java
 
 Contem a classe TesteOperacao - Que recebe uma lista com valores,
 
-Após isto, realiza a verificação das soma, se o valor for igual a R$ 611.0, resultado correto.
+Após isto, realiza a verificação das somaa, se o valor for igual a R$ 611.0, resultado correto.
 
 
 
