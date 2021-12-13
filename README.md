@@ -7,9 +7,12 @@ Projeto Desafio Técnico
 Teste para avaliação e estruturação de código.
 
 
+
 Dependências
 -----------------------------------------------------------------------------------------------------------
 Para executar o software é necessário ter o ambiente de execução do Java (JRE) e um banco dados PostgreSQL.
+
+
 
 Exercício 1: exercício de desenvolvimento de uma funcionalidade
 -----------------------------------------------------------------------------------------------------------
@@ -20,6 +23,17 @@ Operacao - Onde é realizado a parte da soma total, além da visualização em t
 RecebendoDados - Esta classe recebe uma lista retornando os valores desejados.
 
 Após são chamadas na classe principal Main.
+
+
+
+Implementação de testes unitários
+-----------------------------------------------------------------------------------------------------------
+Dentro da pasta test/java
+
+Contem a classe TesteOperacao - Que recebe uma lista com valores,
+
+Após isto, realiza a verificação das soma, se o valor for igual a R$ 611.0, resultado correto.
+
 
 
 Exercício 2: simula modelagem e consulta de banco de dados
