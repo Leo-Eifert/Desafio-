@@ -27,8 +27,12 @@ Exercício 2: simula modelagem e consulta de banco de dados
 São realizadas 3 etapas
 
 1- Estruturação das tabelas.
+https://docs.google.com/document/d/1NmdLWeDuI27vXKZPUpN2aw5p1uBLoraVrqJbXdvqXj8/edit?usp=sharing
 
 2- População das tabelas
+https://docs.google.com/document/d/1Ch60kQ7QL3Hl61TMrbyb0MrcAMA2SZ3trFsMOhlvhws/edit?usp=sharing
 
 3- Respectivas funcionalidades 
+https://docs.google.com/document/d/1H_i6LCpDxjXelw60vrWYn-7xKuiUqsEf5WtEbiLwvOg/edit?usp=sharing
+
 
